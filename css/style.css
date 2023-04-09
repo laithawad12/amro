@@ -114,8 +114,8 @@ a:active,a:hover {
 /* ==========================================================================Typography========================================================================== */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400);
 h1 {
-	font-size:2em;
-	margin:0.67em 0;
+	font: size 2px;em;
+	margin:0.50em 0;
 	color:#353535;
 }
 h2 {
@@ -710,9 +710,9 @@ i.respons {
 	display:inline-block;
 	margin:15px 5px 15px 5px;
 	color:#fff;
-	font-size:16px;
-	line-height:40px;
-	padding:0px 10px;
+	font-size:10px;
+	line-height:30px;
+	padding:0px 50px;
 	text-align:center;
 }
 .down-arrow-btn:hover,.down-arrow-btn:focus {
@@ -744,7 +744,7 @@ img.grayscale:hover {
 	padding-right:0;
 }
 .effects {
-	padding-left:15px;
+	padding-left:10px;
 }
 .effects .img {
 	position:relative;
